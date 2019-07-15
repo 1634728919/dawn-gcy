@@ -1,0 +1,4 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§Êñ€øÿÿÿÿ
+fsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëð³‘
+dsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(à‰ºÐúÿÿÿÿ

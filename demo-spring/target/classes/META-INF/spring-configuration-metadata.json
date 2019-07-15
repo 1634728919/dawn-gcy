@@ -1,0 +1,68 @@
+{
+  "groups": [
+    {
+      "name": "girl",
+      "type": "com.example.demo.controller.Girl",
+      "sourceType": "com.example.demo.controller.Girl"
+    },
+    {
+      "name": "person",
+      "type": "com.example.demo.bean.Person",
+      "sourceType": "com.example.demo.bean.Person"
+    }
+  ],
+  "properties": [
+    {
+      "name": "girl.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.controller.Girl",
+      "defaultValue": 0
+    },
+    {
+      "name": "girl.cup-size",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.controller.Girl"
+    },
+    {
+      "name": "girl.name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.controller.Girl"
+    },
+    {
+      "name": "person.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.example.demo.bean.Person"
+    },
+    {
+      "name": "person.birth",
+      "type": "java.util.Date",
+      "sourceType": "com.example.demo.bean.Person"
+    },
+    {
+      "name": "person.boss",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.example.demo.bean.Person"
+    },
+    {
+      "name": "person.dog",
+      "type": "com.example.demo.bean.Dog",
+      "sourceType": "com.example.demo.bean.Person"
+    },
+    {
+      "name": "person.last-name",
+      "type": "java.lang.String",
+      "sourceType": "com.example.demo.bean.Person"
+    },
+    {
+      "name": "person.lists",
+      "type": "java.util.List<java.lang.Object>",
+      "sourceType": "com.example.demo.bean.Person"
+    },
+    {
+      "name": "person.maps",
+      "type": "java.util.Map<java.lang.String,java.lang.Object>",
+      "sourceType": "com.example.demo.bean.Person"
+    }
+  ],
+  "hints": []
+}
